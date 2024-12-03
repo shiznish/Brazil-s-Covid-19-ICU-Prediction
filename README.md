@@ -30,16 +30,11 @@ This project focuses on building a classification model to predict ICU admission
    - Summarize key findings and model performance.  
    - Provide recommendations based on predictions.  
 ## Results
-* Best Model: [e.g., Random Forest Classifier]
-* Performance Metrics:
-   *    Accuracy: XX%
-   *    
-Precision: XX%
-Recall: XX%
-F1 Score: XX%
-Dataset
-The dataset used for this project is publicly available on Kaggle: COVID-19 Dataset by Sirio Libanês Hospital.
+
 
 ![image](https://github.com/user-attachments/assets/fe37a6bf-7218-483a-b9be-02c3cf4c9e7a)
+
+# Dataset
+The dataset used for this project is publicly available on Kaggle: COVID-19 Dataset by Sirio Libanês Hospital.
 
 
