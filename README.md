@@ -34,7 +34,9 @@ This project focuses on building a classification model to predict ICU admission
 
 ![image](https://github.com/user-attachments/assets/fe37a6bf-7218-483a-b9be-02c3cf4c9e7a)
 
-# Dataset
-The dataset used for this project is publicly available on Kaggle: COVID-19 Dataset by Sirio Libanês Hospital.
+## Dataset  
+
+The dataset used for this project is publicly available on Kaggle: [COVID-19 Dataset by Sirio Libanês Hospital](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19).
+
 
 
