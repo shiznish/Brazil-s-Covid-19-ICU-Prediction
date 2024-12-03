@@ -40,13 +40,6 @@ F1 Score: XX%
 Dataset
 The dataset used for this project is publicly available on Kaggle: COVID-19 Dataset by Sirio Libanês Hospital.
 
-Method	Train Accuracy	Test Accuracy	Precision	Recall	F1
-1	Logistic Regression	0.681	0.811	0.820	0.788	0.804
-5	Random Forest	0.726	0.811	0.833	0.769	0.800
-3	SVM	0.696	0.764	0.776	0.731	0.752
-7	AdaBoost	0.763	0.764	0.814	0.673	0.737
-8	Gradient Boost	0.722	0.764	0.814	0.673	0.737
-6	Bagging	0.737	0.755	0.795	0.673	0.729
-2	KNN	0.674	0.726	0.767	0.635	0.695
-4	DecisionTree	0.681	0.604	0.614	0.519	0.562
+![image](https://github.com/user-attachments/assets/fe37a6bf-7218-483a-b9be-02c3cf4c9e7a)
+
 
